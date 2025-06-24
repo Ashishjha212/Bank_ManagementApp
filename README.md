@@ -36,5 +36,7 @@ CREATE TABLE account (
 +---------------------+--------------+------+-----+---------+----------------+
 );
 
+![image alt](https://github.com/Ashishjha212/Bank_ManagementApp/blob/7ee29ea3a242fcdd1f0e135090e3ebe2f9d11616/BankManagementApp/Screenshot%20(363).png)
+
 
 
